@@ -2,6 +2,10 @@
 
 ![](changecode.gif?raw=true)
 
+-![Sample Gif](changecode.gif)
+
++<img src="changecode.gif?raw=true" width="200px">
+
 <!--
 **faeezshaikhefx/faeezshaikhefx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
